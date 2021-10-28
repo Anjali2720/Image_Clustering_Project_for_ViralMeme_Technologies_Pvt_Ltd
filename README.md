@@ -4,4 +4,3 @@ The project grouped 50K meme images, utilising libraries such as OpenCV, Pytesse
 Main algorithm is developed using OpenCV matching template, while alternate route, suitable for Indian memes, is based on Pytesseract.<br/><br/>
 It was successful in clustering images. A few samples from result are available in this directory
 
-
